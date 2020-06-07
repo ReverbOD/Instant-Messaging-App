@@ -1,3 +1,8 @@
-# chat-application
-React on the front end, with NodeJS + Socket.io web socket library on the back end. 
+# Instant Messaging App
+> A test application to learn & test socket.io
 
+**What I've used**
+
+- [react:](https://it.reactjs.org/)
+- [nodejs:](https://nodejs.org/en/)
+- [socket.io:](https://socket.io/)
